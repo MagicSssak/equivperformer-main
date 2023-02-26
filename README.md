@@ -26,6 +26,6 @@ remove selfint
  use performer
  adjust max number of random features and antithetic or not
 ```
---Performer --kernel=True --antithetic=True --num_random=20
+--kernel=True --antithetic=True --num_random=20
 ```
 # equivperformer-main
